@@ -13,3 +13,10 @@ Topics
    3) Size of the log file
    4) Log file not be deleted when application restarted
    5) New file created when threshold size is reached
+
+
+logging using interceptors
+--------------------------- 
+
+1) https://medium.com/techno101/servlet-filter-and-handler-interceptor-spring-boot-implementation-b58d397d9dbd
+2) https://github.com/Vinesh-z/Filter_Interceptor/tree/master/src/main
